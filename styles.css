@@ -8,6 +8,11 @@ body {
     justify-content: center;
 }
 
+.background-image {
+    position: absolute;
+    z-index: -1;
+}
+
 main {
     height: 30rem;
     width: 20rem;

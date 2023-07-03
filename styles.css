@@ -4,12 +4,12 @@
 }
 
 body {
-    background-image: url(images/pattern-background-desktop.svg);
     display: flex;
     justify-content: center;
 }
 
 main {
+    background-image: url(images/pattern-background-desktop.svg);
     height: 30rem;
     width: 20rem;
     background-color: hsl(0, 0%, 100%);
